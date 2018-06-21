@@ -1,0 +1,8 @@
+{
+  "Template": {
+    "TemplateName": "Template_approval",
+    "SubjectPart": "Greetings, {{renter_name}}!",
+    "HtmlPart": "<h1>Your application for {{space_name}},</h1><p> has been {{response}}. </p>",
+    "TextPart": "Thank you, sincerely {{owner_name}}"
+  }
+}

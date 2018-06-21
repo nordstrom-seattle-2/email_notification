@@ -1,0 +1,8 @@
+{
+  "Template": {
+    "TemplateName": "Template_listing_removal",
+    "SubjectPart": "Attention: {{owner_name}}!",
+    "HtmlPart": "<h1>Based on ratings of the last 5 reviews, {{space_name}},</h1><p> has been disabled.</p>",
+    "TextPart": "Thank you, sincerely {{renter_name}}"
+  }
+}

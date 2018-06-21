@@ -1,0 +1,8 @@
+{
+  "Template": {
+    "TemplateName": "Template_application",
+    "SubjectPart": "Greetings, {{owner_name}}!",
+    "HtmlPart": "<h1>I would like to reserve {{space_name}},</h1><p> for {{occupancy}} people. From {{date_from_to}}.</p>",
+    "TextPart": "Thank you, sincerely {{renter_name}}"
+  }
+}

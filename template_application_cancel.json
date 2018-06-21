@@ -1,0 +1,8 @@
+{
+  "Template": {
+    "TemplateName": "Template_application",
+    "SubjectPart": "Greetings, {{owner_name}}!",
+    "HtmlPart": "<h1>I would like to cancel my application for {{space_name}},</h1>",
+    "TextPart": "Sincerely {{renter_name}}."
+  }
+}
